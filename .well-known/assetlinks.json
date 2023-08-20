@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.prospa.mobile",
+      "sha256_cert_fingerprints": [
+        "4B:2B:26:8C:AA:2D:E4:30:3D:F2:7C:AB:83:F0:90:B2:CE:97:56:9D:F0:ED:93:BA:EA:0B:02:CC:57:FA:F1:80",
+        "8F:F6:E5:F0:16:D8:BF:4D:E5:F1:4B:E4:A4:A6:19:EF:ED:A6:59:89:AB:C8:E1:BF:76:A0:8E:74:D9:C2:63:E1",
+        "50:C5:32:F9:B3:8C:3F:71:09:84:A4:A4:44:54:3A:A4:85:22:36:9C:AA:76:83:66:AE:E6:7B:ED:B5:87:13:76"
+      ]
+    }
+  }
+]
